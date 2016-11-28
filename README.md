@@ -15,3 +15,6 @@ The automation system is part of last projects, is to enable developers to contr
 
 you must have the set up properly done to run the test, or modify with this examples.
 
+***********
+*Year 2012*
+***********
